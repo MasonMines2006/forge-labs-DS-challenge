@@ -1,6 +1,6 @@
 # Geoguessr Image Analysis
 ### Mason Mines: Up-and-Coming Geoguessr Fan
-### Created for the Forge Labs Data Science challenge
+### Created for the Forge Labs Data Science Challenge
 
 
 
