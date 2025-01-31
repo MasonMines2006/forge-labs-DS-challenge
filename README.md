@@ -12,3 +12,4 @@
 **Notes:**
 - Code and analysis done in Jupyterlab, as I believe it is a better medium to show my design-process in addition to the code.
 - Dependencies are in ```requirements.txt```. Full code on GitHub.
+- Dataset used can be found hereL [Google Street View Dataset](https://www.kaggle.com/datasets/paulchambaz/google-street-view)
